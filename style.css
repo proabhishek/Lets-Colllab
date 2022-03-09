@@ -1,0 +1,33 @@
+body{
+    background-image:url("./bg.png");
+}
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+#one{
+    font-size: 70px;
+    background-color: darkcyan;
+    border:none;
+    color:white;
+    margin:300px 300px 40px 300px;
+    display:inline-block;
+    padding:15px 25px;
+}
+#two{
+    font-size:30px;
+    border:none;
+    background-color: white;
+    color:darkcyan;
+    padding:15px 25px;
+    margin:20px 600px 40px 300px;
+}
+#three{
+    font-size: 35px;
+    border:none;
+    background-color: darkcyan;
+    color:white;
+    padding:15px 25px;
+    margin:20px 600px 200px 300px;
+}
